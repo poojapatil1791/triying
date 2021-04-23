@@ -1,0 +1,156 @@
+.top-container{
+	background-color: #91c788;
+	padding: 20px 10px 20px;
+	word-spacing: 30px;
+}
+
+.top{
+	display: inline;
+	text-align: right;
+}
+
+.second{
+	text-align: center;
+}
+
+.middle-container{
+	background-color: #d8e3e7;
+	padding: 20px 5px 20px;
+	word-spacing: 20px;
+
+}
+.middle{
+	display: inline;
+}
+
+.upper-base{
+	text-align: center;
+}
+
+.last {
+	background-color: #91c788;
+	padding: 20px 5px 30px;
+	word-spacing: 10px;
+}
+
+.footer{
+	display:inline;
+}
+
+.creativity{
+	text-align: center;
+	background-color: #91c788;
+	padding: 20px 5px 20px;
+}
+.cre{
+	background-color: #f8f5f1;
+	padding: 20px 5px 20px;
+}
+
+.emotion{
+	text-align: center;
+	background-color: #91c788;
+	padding: 20px 5px 20px;
+}
+.emo{
+	background-color: #f8f5f1;
+	padding: 20px 5px 20px;
+}
+
+.finance{
+	text-align: center;
+	background-color: #91c788;
+	padding: 20px 5px 20px;
+}
+.fin{
+	background-color: #f8f5f1;
+	padding: 20px 5px 20px;
+}
+
+.happiness{
+	text-align: center;
+	background-color: #91c788;
+	padding: 20px 5px 20px;
+}
+.hap{
+	background-color: #f8f5f1;
+	padding: 20px 5px 20px;
+}
+
+.leadership{
+	text-align: center;
+	background-color: #91c788;
+	padding: 20px 5px 20px;
+}
+.led{
+	background-color: #f8f5f1;
+	padding: 20px 5px 20px;
+}
+
+.management{
+	text-align: center;
+	background-color: #91c788;
+	padding: 20px 5px 20px;
+}
+.man{
+	background-color: #f8f5f1;
+	padding: 20px 5px 20px;
+}
+
+.philosophy{
+	text-align: center;
+	background-color: #91c788;
+	padding: 20px 5px 20px;
+}
+.phi{
+	background-color: #f8f5f1;
+	padding: 20px 5px 20px;
+}
+
+.relationship{
+	text-align: center;
+	background-color: #91c788;
+	padding: 20px 5px 20px;
+}
+
+.rel{
+	background-color: #f8f5f1;
+	padding: 20px 5px 20px;
+}
+
+.sprit{
+	text-align: center;
+	background-color: #91c788;
+	padding: 20px 5px 20px;
+}
+
+.spi{
+	background-color: #f8f5f1;
+	padding: 20px 5px 20px;
+}
+
+a:link{
+	text-decoration: none;
+}
+
+.edt{
+	background-color: #d8e3e7;
+	padding: 20px 5px 20px;
+}
+
+.pop{
+	background-color: #d8e3e7;
+	padding: 20px 5px 20px;
+}
+
+.blo{
+	background-color: #d8e3e7;
+	padding: 20px 5px 20px;
+}
+
+
+	
+	
+
+
+
